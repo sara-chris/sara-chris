@@ -23,7 +23,7 @@ Passionate about programming, problem-solving, and exploring emerging technologi
 
 **Core Computer Science:** Data Structures and Algorithms, Object-Oriented Programming, DBMS, Operating Systems
 
-**Tools:** Git, GitHub, VS Code
+**Tools:**  GitHub, VS Code
 
 **Additional Knowledge:** SAP ABAP Basics
 
@@ -31,17 +31,13 @@ Passionate about programming, problem-solving, and exploring emerging technologi
 
 ### 🚗 Vehicle Breakdown Assistance Finder
 
-A project designed to help users find nearby vehicle breakdown assistance.
+A project designed to help users find nearby vehicle breakdown assistance
 
-### 🏥 Smart Healthcare Queue Management
-
-A healthcare queue management concept focused on reducing waiting times and prioritizing emergency cases.
-
-*More projects and improvements coming soon!*
 
 ## 📜 Certifications
 
 * NPTEL Elite Certification – Programming in Java
+* NodeJs by IBM Developer Skills Network
 
 ## 🎓 Education
 
@@ -51,25 +47,11 @@ Federal Institute of Science and Technology (FISAT), Ernakulam
 ## 📫 Connect With Me
 
 * **GitHub:** https://github.com/sara-chris
-* **LinkedIn:** Add your LinkedIn profile URL here
-* **Email:** Add your professional email address here
+* **Email:** saraevechris2005@gmail.com
 
 ---
 
 ⭐ *Thanks for visiting my profile! Feel free to explore my repositories.*
-
-A Final year B.Tech Computer Science And Engineering student
-CGPA:8.84
-Technical Skills: Python,Java,C
-Database:MySql
-Conepts:OOP,DBMS,Data Structures
-SAP Tool:ABAP(Basics)
-
-Academic Projects:ONROAD VEHICLE BREAKDOWN ASSISTANCE FINDER-RESQ
-
-
-
-
 
 <!--
 **sara-chris/sara-chris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
