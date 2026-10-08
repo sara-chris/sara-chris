@@ -1,12 +1,12 @@
-## Hi, I'm Sara Eve Christopher./
-A Final year B.Tech Computer Science And Engineering student./
-CGPA:8.84./
-Technical Skills: Python,Java,C./
-Database:MySql./
-Conepts:OOP,DBMS,Data Structures./
-SAP Tool:ABAP(Basics)./
+## Hi, I'm Sara Eve Christopher
+A Final year B.Tech Computer Science And Engineering student
+CGPA:8.84
+Technical Skills: Python,Java,C
+Database:MySql
+Conepts:OOP,DBMS,Data Structures
+SAP Tool:ABAP(Basics)
 
-Academic Projects:ONROAD VEHICLE BREAKDOWN ASSISTANCE FINDER-RESQ./
+Academic Projects:ONROAD VEHICLE BREAKDOWN ASSISTANCE FINDER-RESQ
 
 
 
