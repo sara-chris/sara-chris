@@ -1,4 +1,4 @@
-## Hi, I'm Sara 
+
 # Hi there, I'm Sara! 👋
 
 🎓 **B.Tech Computer Science and Engineering Student** at Federal Institute of Science and Technology (FISAT), Kerala.
